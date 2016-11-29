@@ -29,5 +29,5 @@ The **Husky Planter-Small** was modeled using our updated 2016 modeling workflow
 
 *Nesting Layout*
 
-![Husky Planter-Small](https://github.com/AKERKits/Husky-Planter-Small/blob/master/Images/AKER%20-%20Husky%20Planter%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
+![Husky Planter-Small](https://github.com/AKERKits/Husky-Planter-Small/blob/master/Images/AKER%20-%20Husky%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
