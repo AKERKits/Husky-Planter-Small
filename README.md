@@ -4,7 +4,7 @@
 
 The **AKER Husky Planter-Small** is a planter designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![https://github.com/AKERKits/V-Planter-Small/blob/master/Images/AKER%20-%20V%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped.jpg)
+![Husky Planter-Small](https://github.com/AKERKits/Husky-Planter-Small/blob/master/Images/AKER%20-%20Husky%20Planter-Small%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
 *Source Files*
 
@@ -26,7 +26,3 @@ The **Husky Planter-Small** was modeled using our updated 2016 modeling workflow
  * 18 mm material & 6 mm tool
  * 18 mm material & 10 mm tool
  * 18 mm material & 12 mm tool
-
-*Nesting Layout*
-
-![Husky Planter-Small]()
