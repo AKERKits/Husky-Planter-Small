@@ -1,4 +1,4 @@
-#Husky Planter-Small v1.0
+#Husky Planter - Small v1.0
 
 *Overview*
 
